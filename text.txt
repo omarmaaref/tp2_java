@@ -1,0 +1,14 @@
+lab 5
+3.3.3 :
+ How does this work?  Can you identify the principal at work here?
+-> casting
+every int is a double 
+and every byte is a short int is an int
+
+
+
+lab 7(bonus) 
+3.3 :
+the StringBuilder refrence behave more like object when passed to a method
+and StringBuilder is a mutable squence of charecters while String is  immutable. 
+
